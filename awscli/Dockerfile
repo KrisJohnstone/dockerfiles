@@ -1,4 +1,3 @@
-
 ARG AWS_CLI_VERSION=2.37.10
 
 FROM public.ecr.aws/docker/library/golang:1.27-trixie AS plugin-builder
